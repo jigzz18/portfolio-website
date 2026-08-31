@@ -1,8 +1,8 @@
 {
     "basics": {
       "name": "Jignesh Tailor",
-      "title": "Senior Software Engineer @ FYNDNA TechCorp",
-      "summary": "I’m a Senior Software Engineer with 5+ years of experience in building and scaling robust backend systems. Experienced in leading teams and fostering collaboration. Eager to contribute a results-driven approach to a dynamic team. I love solving complex problems and finding optimal solutions for them. I'm passionate about system design, clean architecture and writing code that lasts.",
+      "title": "Lead Software Engineer @ FYNDNA TechCorp",
+      "summary": "I’m a Lead Software Engineer with 6+ years of experience in building and scaling robust backend systems. Experienced in leading teams and fostering collaboration. Eager to contribute a results-driven approach to a dynamic team. I love solving complex problems and finding optimal solutions for them. I'm passionate about system design, clean architecture and writing code that lasts.",
       "location": "Mumbai, Maharashtra, India",
       "email": "jigzztailor@gmail.com",
       "phone": "9167588959",
@@ -14,15 +14,23 @@
     "experience": [
       {
         "company": "FYNDNA TechCorp Pvt. Ltd",
-        "totalDuration": "4 years",
+        "totalDuration": "4 years 5 months",
         "roles": [
           {
+            "title": "Lead Software Developer",
+            "dates": "April 2026 - Present (5 years)",
+            "bullets": [
+              "Led the design and core implementation of a Mandate system for a major Indian bank, ensuring secure, real-time digital payments for millions of customers in compliance with RBI guidelines.",
+              "Integrated cloud-native technologies like DAPR and GCP to streamline simulator configuration using JSON, enabling faster iteration and enhanced maintainability across dev teams.",
+              "Tech used: Java 17, Spring Boot, Apache Kafka, Kubernetes, Temporal, DAPR, YugabyteDB, GCP"
+            ]
+          },
+          {
             "title": "Senior Software Developer",
-            "dates": "April 2023 - Present (3 years)",
+            "dates": "April 2023 - April 2026 (3 years)",
             "bullets": [
               "Led the design and core implementation of a NEFT system for a major Indian bank, ensuring secure, real-time digital payments for millions of customers in compliance with RBI guidelines.",
               "Architected and engineered a suite of configurable simulators to emulate complex Core Banking operations, increasing test coverage by 70% and reducing QA cycle time by 40%.",
-              "Integrated cloud-native technologies like DAPR and GCP to streamline simulator configuration using JSON, enabling faster iteration and enhanced maintainability across dev teams.",
               "Designed and developed a robust analytics component using Databricks, enabling real-time insights into STANDIN transaction metrics and system performance.",
               "Tech used: Java 17, Spring Boot, Apache Kafka, Kubernetes, Temporal, DAPR, YugabyteDB, GCP"
             ]
